@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Getting Over You",
+  "base_artist": "大橋ちっぽけ",
+  "createdAt": "2026-04-03T05:32:25.596545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Getting Over You",
+      "artist": "Jackie Lee",
+      "has_synced": true,
+      "path": "select/01_Getting_Over_You_Jackie_Lee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Getting Over You (feat. Ronnie Radke)",
+      "artist": "Metro Station",
+      "has_synced": false,
+      "path": "select/02_Getting_Over_You_(feat._Ronnie_Radke)_Metro_Station.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Been Hard Enough Getting over You",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/03_It's_Been_Hard_Enough_Getting_over_You_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Getting Over You",
+      "artist": "Lauv",
+      "has_synced": true,
+      "path": "select/04_Getting_Over_You_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Is Getting Over You",
+      "artist": "Alkaline Trio",
+      "has_synced": true,
+      "path": "select/05_This_Is_Getting_Over_You_Alkaline_Trio.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Never Getting Over You",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/06_Never_Getting_Over_You_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tonight I’m Getting Over You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/07_Tonight_I’m_Getting_Over_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tonight I'm Getting Over You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/08_Tonight_I'm_Getting_Over_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hard Enough Getting Over You",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/09_Hard_Enough_Getting_Over_You_Cher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hard Enough Getting Over You (Album Version)",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/10_Hard_Enough_Getting_Over_You_(Album_Version)_Cher.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Always Getting Over You",
+      "artist": "Angela Ammons",
+      "has_synced": true,
+      "path": "select/11_Always_Getting_Over_You_Angela_Ammons.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Getting Over You",
+      "artist": "Willie Nelson feat. Bonnie Raitt",
+      "has_synced": false,
+      "path": "select/12_Getting_Over_You_Willie_Nelson_feat._Bonnie_Raitt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Getting Over You",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/13_Getting_Over_You_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Still Getting Over You",
+      "artist": "Peter Cetera",
+      "has_synced": true,
+      "path": "select/14_Still_Getting_Over_You_Peter_Cetera.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Still Getting Over You",
+      "artist": "Peter Cetera",
+      "has_synced": true,
+      "path": "select/15_Still_Getting_Over_You_Peter_Cetera.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Getting Over Him (feat. Jon Pardi)",
+      "artist": "Lauren Alaina feat. Jon Pardi",
+      "has_synced": true,
+      "path": "select/16_Getting_Over_Him_(feat._Jon_Pardi)_Lauren_Alaina_feat._Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Getting Over Him",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/17_Getting_Over_Him_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Can't Get Over Getting Over Losing You",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/18_Can't_Get_Over_Getting_Over_Losing_You_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'll Never Get Over You Getting Over Me - 7\" Version",
+      "artist": "Expose",
+      "has_synced": true,
+      "path": "select/19_I'll_Never_Get_Over_You_Getting_Over_Me_-_7__Version_Expose.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I'll Never Get Over You Getting Over Me (7\" Version)",
+      "artist": "Exposé",
+      "has_synced": true,
+      "path": "select/20_I'll_Never_Get_Over_You_Getting_Over_Me_(7__Version)_Exposé.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Over Getting Over",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/21_Over_Getting_Over_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Hardly Getting Over It",
+      "artist": "Hüsker Dü",
+      "has_synced": true,
+      "path": "select/22_Hardly_Getting_Over_It_Hüsker_Dü.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Getting Over You",
+      "artist": "大橋ちっぽけ",
+      "has_synced": false,
+      "path": "select/pl_01_Getting_Over_You_大橋ちっぽけ.txt"
+    }
+  ]
+}
